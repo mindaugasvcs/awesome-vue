@@ -1969,6 +1969,7 @@ Tooltips / popovers
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
  - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
  - [weex-eros](https://github.com/bmfe/eros-template) - [Chinese] Eros is a app solution based on Weex and Vue, which enables you to use API of Vue, simple and quick development of small and medium app.
+ - [jqm-ui.vue](https://github.com/mindaugasvcs/jqm-ui.vue) - Want to use nice jQuery Mobile 1.4.5 widgets as Vue 2 components? Here is a port of JQM UI to Vue 2.
 
 *Set of components for mobile*
 
